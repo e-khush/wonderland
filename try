@@ -1,0 +1,58 @@
+<html>
+<title>
+My first page
+</title>
+<body id="one">
+
+	<!--table1-->
+<table width=100% style="background-image:url('D:/html/capture.jpg')">
+	<tr>
+		<td width="50%"></td>
+		<td width="50%" style="color:black;font-size:100px" ><b> wonderland</b></td>
+	</tr>
+</table><hr>
+
+    <!--table 2-->
+<table width="100%"style="background-color:black ;color:grey"border=2px >
+	<tr>
+		<td width=20% style="font-size: 30px;text-align: center"><a href="#one" style="color: white;text-decoration: none">Home</a></td>
+		<td width=20% style="font-size: 30px;text-align: center"><a href="D:\html\event.html" style="color: white;text-decoration: none">Events</a></td>
+		<td width=20% style="font-size: 30px;text-align: center"><a href="login.html" style="color: white;text-decoration: none">Login</a></td>
+		<td width=20% style="font-size: 30px;text-align: center"><a href="aboutus.html"style="color: white;text-decoration: none">About Us</a></td>
+		<td width=20% style="font-size: 30px;text-align: center"><a href="contact.html" style="color: white;text-decoration: none">Contact</a></td>
+    </tr>
+</table>
+    
+
+
+<div style="height:300px;">
+	<div style="height:300px;width:50%;float:left;font-size:20px; text-align:center;">
+		<h1 style="font-family:arial;color:blue"> <marquee>Coming in 2021</marquee></h1>
+		<h2><b>Wonderland Adventure Park</b></h2>
+		<p><h3>A new experience created for you by  Wonderland theme park and Inspiration Island splash park,<br> both designed with special-needs individuals in mind and both built for everyone’s enjoyment in the spirit of inclusion.<br></p>
+		<p>Wonderland Camp will be an ultra-accessible camp for all ages and abilities, with a special emphasis on giving people with physical and cognitive challenges an opportunity to enjoy summer-camp-type activities alongside guests without special needs. <br>Wonderland Camp will include swimming, floating on a relaxing river, hiking, archery, horseback riding, zip-lining and much more.<br></p>
+		Located on the northern outskirts of San Antonio, near the intersection of Bulverde and Evans roads, non-profit Wonderland Camp is only a 20-minute drive from Wonderland. <br>Facilities, which are anticipated to be completed in 2021, will be able to accommodate up to 525 campers and staff for day, weekend or week-long camp sessions.</h3>
+	</div>
+
+	<div style="height:300px;width:50%;float:right;margin:right">
+		<div>
+			<img style="height:100%;width=100%;" src="D:/html/theme1.jpg">
+		</div>
+<br>
+		<div>
+			<img style="height:100%;width=100%;" src="D:/html/theme2.jpg">
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
